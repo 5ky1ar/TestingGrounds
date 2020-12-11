@@ -78,6 +78,13 @@
     "username_claimed": "Tors_Hammer",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Bitwave": {
+    "errorType": "status_code",
+    "url": "https://bitwave.tv/{}",
+    "urlMain": "https://bitwave.tv",
+    "username_claimed": "bitwave",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Tiblar (Broken)": {
     "errorType": "message",
     "errorMsg": "This page does not exist.",
