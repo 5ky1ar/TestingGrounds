@@ -80,7 +80,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Bitwave": {
-    "errorType": "status_code",
+    "errorType": "message",
+    "errorMsg": "Could not find channel",
     "url": "https://bitwave.tv/{}",
     "urlMain": "https://bitwave.tv/",
     "username_claimed": "bitwave",
