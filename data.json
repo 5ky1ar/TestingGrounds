@@ -94,6 +94,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Voat": {
+    "errorType": "status_code",
+    "url": "https://voat.co/{}",
+    "urlMain": "https://voat.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Tiblar (Broken)": {
     "errorType": "message",
     "errorMsg": "This page does not exist.",
