@@ -71,6 +71,13 @@
     "username_claimed": "sircmpwn",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "World Truth Video": {
+    "errorType": "status_code",
+    "url": "https://worldtruthvideos.org/@{}",
+    "urlMain": "https://worldtruthvideos.org",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Tiblar (Broken)": {
     "errorType": "message",
     "errorMsg": "This page does not exist.",
