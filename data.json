@@ -74,14 +74,14 @@
   "World Truth Video": {
     "errorType": "status_code",
     "url": "https://worldtruthvideos.org/@{}",
-    "urlMain": "https://worldtruthvideos.org",
+    "urlMain": "https://worldtruthvideos.org/",
     "username_claimed": "Tors_Hammer",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Bitwave": {
     "errorType": "status_code",
     "url": "https://bitwave.tv/{}",
-    "urlMain": "https://bitwave.tv",
+    "urlMain": "https://bitwave.tv/",
     "username_claimed": "bitwave",
     "username_unclaimed": "noonewouldeverusethis7"
   },
