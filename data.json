@@ -97,7 +97,7 @@
   "Voat": {
     "errorType": "message",
     "errorMsg": "That user could not be found",
-    "url": "https://voat.co/{}",
+    "url": "https://voat.co/u/{}",
     "urlMain": "https://voat.co/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
