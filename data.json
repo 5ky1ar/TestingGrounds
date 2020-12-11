@@ -71,8 +71,9 @@
     "username_claimed": "sircmpwn",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "World Truth Video": {
-    "errorType": "status_code",
+  "WorldTruth Video": {
+    "errorType": "response_url",
+    "errorUrl": "https://worldtruthvideos.org/",
     "url": "https://worldtruthvideos.org/@{}",
     "urlMain": "https://worldtruthvideos.org/",
     "username_claimed": "Tors_Hammer",
