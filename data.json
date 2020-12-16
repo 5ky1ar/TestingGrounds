@@ -111,7 +111,7 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "iLink": {
+  "iLink (Broken)": {
     "errorType": "status_code",
     "url": "https://il.ink/{}",
     "urlMain": "https://il.ink/",
@@ -122,6 +122,13 @@
     "errorType": "status_code",
     "url": "https://linktr.ee/{}",
     "urlMain": "https://linktr.ee/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Carrd": {
+    "errorType": "status_code",
+    "url": "https://{}.carrd.co/",
+    "urlMain": "https://carrd.co/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
