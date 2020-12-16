@@ -110,5 +110,12 @@
     "urlMain": "https://tiblar.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "World Truth Online": {
+    "errorType": "status_code",
+    "url": "https://www.worldtruth.online/{}",
+    "urlMain": "https://www.worldtruth.online/",
+    "username_claimed": "Nobody",
+    "username_unclaimed": "noonewouldeverusethis7"
   }
 }
