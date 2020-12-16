@@ -115,7 +115,14 @@
     "errorType": "status_code",
     "url": "https://il.ink/{}",
     "urlMain": "https://il.ink/",
-    "username_claimed": "adam",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Linktree": {
+    "errorType": "status_code",
+    "url": "https://linktr.ee/{}",
+    "urlMain": "https://linktr.ee/",
+    "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "World Truth Online": {
