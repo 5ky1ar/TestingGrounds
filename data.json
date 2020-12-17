@@ -172,6 +172,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Squarespace": {
+    "errorType": "status_code",
+    "url": "https://{}.squarespace.com",
+    "urlMain": "https://squarespace.com/",
+    "username_claimed": "support",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Battlelog": {
     "errorMsg": "Sorry, that page doesn't exist",
     "errorType": "message",
