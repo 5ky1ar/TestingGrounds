@@ -146,7 +146,7 @@
   },
   "c1.biz": {
     "errorType": "status_code",
-    "url": "http://{}.c1.biz",
+    "url": "https://{}.c1.biz",
     "urlMain": "https://biz.nf/",
     "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
@@ -154,7 +154,14 @@
   "Shorby": {
     "errorType": "status_code",
     "url": "https://shor.by/{}",
-    "urlMain": "https://shorby.com",
+    "urlMain": "https://shorby.com/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "About Me": {
+    "errorType": "status_code",
+    "url": "https://about.me/{}",
+    "urlMain": "https://about.me/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
