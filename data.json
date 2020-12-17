@@ -144,10 +144,10 @@
     "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Weebly": {
+  "c1.biz": {
     "errorType": "status_code",
-    "url": "https://{}.weebly.com",
-    "urlMain": "https://weebly.com/",
+    "url": "https://{}.c1.biz",
+    "urlMain": "https://biz.nf/",
     "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
   },
