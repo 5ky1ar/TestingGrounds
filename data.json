@@ -186,12 +186,11 @@
     "username_claimed": "badges",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Sleekpage": {
-    "errorType": "message",
-    "errorMsg": "is still available",
-    "url": "https://{}.v1.sleek.page",
-    "urlMain": "https://sleek.page/",
-    "username_claimed": "example",
+  "Linkkle": {
+    "errorType": "status_code",
+    "url": "https://linkkle.com/{}",
+    "urlMain": "https://linkkle.com/",
+    "username_claimed": "paul",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Battlelog": {
