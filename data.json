@@ -184,7 +184,7 @@
     "errorMsg": "<title>404 - Not found!</title>",
     "url": "https://{}.v1.sleek.page",
     "urlMain": "https://sleek.page/",
-    "username_claimed": "example.v1",
+    "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Battlelog": {
