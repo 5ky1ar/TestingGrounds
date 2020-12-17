@@ -193,6 +193,13 @@
     "username_claimed": "paul",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Hype Link": {
+    "errorType": "status_code",
+    "url": "https://hypel.ink/{}",
+    "urlMain": "https://hypel.ink/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Battlelog": {
     "errorMsg": "Sorry, that page doesn't exist",
     "errorType": "message",
