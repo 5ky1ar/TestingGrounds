@@ -200,6 +200,13 @@
     "username_claimed": "pricing",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Swite": {
+    "errorType": "status_code",
+    "url": "https://swite.com/{}",
+    "urlMain": "https://swite.com/",
+    "username_claimed": "prices",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "PixelHub": {
     "errorType": "response_url",
     "errorUrl": "https://content.pixelhub.me/home/?login=false",
