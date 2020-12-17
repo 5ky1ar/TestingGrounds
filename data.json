@@ -180,7 +180,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Sleekpage": {
-    "errorType": "status_code",
+    "errorType": "response_url",
+	"errorUrl": "https://sleek.page/",
     "url": "https://{}.sleek.page",
     "urlMain": "https://sleek.page/",
     "username_claimed": "example.v1",
