@@ -146,7 +146,7 @@
   },
   "c1.biz": {
     "errorType": "status_code",
-    "url": "https://{}.c1.biz",
+    "url": "http://{}.c1.biz",
     "urlMain": "https://biz.nf/",
     "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
