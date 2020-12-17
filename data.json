@@ -123,10 +123,10 @@
     "username_claimed": "5ky1ar",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Bitbucket Pages": {
+  "BitBucket Pages": {
     "errorType": "status_code",
     "url": "https://{}.bitbucket.io",
-    "urlMain": "https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/",
+    "urlMain": "https://bitbucket.org/",
     "username_claimed": "5ky1ar",
     "username_unclaimed": "noonewouldeverusethis7"
   },
@@ -144,9 +144,16 @@
     "username_claimed": "example",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Weebly": {
+    "errorType": "status_code",
+    "url": "https://{}.weebly.com",
+    "urlMain": "https://weebly.com/",
+    "username_claimed": "example",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Battlelog": {
-    "errorMsg": "Whoops",
-    "errorType": "Sorry, that page doesn't exist",
+    "errorMsg": "Sorry, that page doesn't exist",
+    "errorType": "message",
     "url": "https://battlelog.battlefield.com/bf4/user/{}",
     "urlMain": "https://battlelog.battlefield.com/",
     "username_claimed": "blue",
