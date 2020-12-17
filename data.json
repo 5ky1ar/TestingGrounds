@@ -115,5 +115,12 @@
     "urlMain": "https://social.snopyta.org/",
     "username_claimed": "snopyta",
     "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "iLink (Broken)": {
+    "errorType": "status_code",
+    "url": "https://il.ink/{}",
+    "urlMain": "https://il.ink/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
   }
 }
