@@ -179,9 +179,16 @@
     "username_claimed": "support",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Litelink": {
+    "errorType": "status_code",
+    "url": "https://litelink.at/{}",
+    "urlMain": "https://litelink.at/",
+    "username_claimed": "badges",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Sleekpage": {
     "errorType": "message",
-    "errorMsg": "is still available Build your own sleek website at It's super easy and fast.",
+    "errorMsg": "Build your own sleek website",
     "url": "https://{}.v1.sleek.page",
     "urlMain": "https://sleek.page/",
     "username_claimed": "example",
