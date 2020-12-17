@@ -165,10 +165,10 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Bitly": {
+  "Surge": {
     "errorType": "status_code",
-    "url": "https://bit.ly/{}",
-    "urlMain": "https://bitly.com/",
+    "url": "https://{}.surge.sh",
+    "urlMain": "https://surge.sh/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
