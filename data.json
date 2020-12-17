@@ -201,8 +201,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Swite": {
-    "errorType": "status_code",
-    "url": "https://swite.com/{}",
+    "errorType": "response_url",
+    "errorUrl": "https://swite.com/login",
     "urlMain": "https://swite.com/",
     "username_claimed": "prices",
     "username_unclaimed": "noonewouldeverusethis7"
