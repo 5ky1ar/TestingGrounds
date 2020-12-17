@@ -6,10 +6,25 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Bitwave": {
+    "errorMsg": "Could not find channel",
+    "errorType": "message",
+    "url": "https://bitwave.tv/{}",
+    "urlMain": "https://bitwave.tv/",
+    "username_claimed": "bitwave",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Byte": {
     "errorType": "status_code",
     "url": "https://byte.co/@{}",
     "urlMain": "https://byte.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Carrd": {
+    "errorType": "status_code",
+    "url": "https://{}.carrd.co/",
+    "urlMain": "https://carrd.co/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
@@ -28,94 +43,11 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Hyprr": {
+    "errorMsg": "That didn\u2019t work",
     "errorType": "message",
-    "errorMsg": "That didn’t work",
     "url": "https://hyprr.com/profile/{}",
     "urlMain": "https://hyprr.com/",
     "username_claimed": "hyprr",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Minds (Broken)": {
-    "errorType": "status_code",
-    "url": "https://www.minds.com/{}",
-    "urlMain": "https://www.minds.com/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "mstdn.social": {
-    "errorType": "status_code",
-    "url": "https://mstdn.social/@{}",
-    "urlMain": "https://mstdn.social/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Parler (Broken)": {
-    "errorType": "response_url",
-    "errorUrl": "https://parler.com/auth/access",
-    "url": "https://parler.com/profile/{}/posts",
-    "urlMain": "https://parler.com/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "social.snopyta.org": {
-    "errorType": "status_code",
-    "url": "https://social.snopyta.org/@{}",
-    "urlMain": "https://social.snopyta.org/",
-    "username_claimed": "snopyta",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Sourcehut": {
-    "errorType": "status_code",
-    "url": "https://sr.ht/~{}",
-    "urlMain": "https://sr.ht/",
-    "username_claimed": "sircmpwn",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "World Truth Video": {
-    "errorType": "response_url",
-    "errorUrl": "https://worldtruthvideos.org/",
-    "url": "https://worldtruthvideos.org/@{}",
-    "urlMain": "https://worldtruthvideos.org/",
-    "username_claimed": "Tors_Hammer",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Bitwave": {
-    "errorType": "message",
-    "errorMsg": "Could not find channel",
-    "url": "https://bitwave.tv/{}",
-    "urlMain": "https://bitwave.tv/",
-    "username_claimed": "bitwave",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "The Donald": {
-    "errorType": "message",
-    "errorMsg": "That user could not be found",
-    "url": "https://thedonald.win/u/{}",
-    "urlMain": "https://thedonald.win/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Voat": {
-    "errorType": "message",
-    "errorMsg": "Whoops",
-    "url": "https://voat.co/u/{}",
-    "urlMain": "https://voat.co/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Tiblar (Broken)": {
-    "errorType": "message",
-    "errorMsg": "This page does not exist.",
-    "url": "https://tiblar.com/{}",
-    "urlMain": "https://tiblar.com/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "iLink (Broken)": {
-    "errorType": "status_code",
-    "url": "https://il.ink/{}",
-    "urlMain": "https://il.ink/",
-    "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Linktree": {
@@ -125,18 +57,63 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Carrd": {
+  "Sourcehut": {
     "errorType": "status_code",
-    "url": "https://{}.carrd.co/",
-    "urlMain": "https://carrd.co/",
+    "url": "https://sr.ht/~{}",
+    "urlMain": "https://sr.ht/",
+    "username_claimed": "sircmpwn",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "The Donald": {
+    "errorMsg": "That user could not be found",
+    "errorType": "message",
+    "url": "https://thedonald.win/u/{}",
+    "urlMain": "https://thedonald.win/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "World Truth Online": {
+  "Voat": {
+    "errorMsg": "Whoops",
+    "errorType": "message",
+    "url": "https://voat.co/u/{}",
+    "urlMain": "https://voat.co/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "WorldTruthMX": {
     "errorType": "status_code",
     "url": "https://www.worldtruth.online/{}",
     "urlMain": "https://www.worldtruth.online/",
     "username_claimed": "Khan69",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "WorldTruthVideo": {
+    "errorType": "response_url",
+    "errorUrl": "https://worldtruthvideos.org/",
+    "url": "https://worldtruthvideos.org/@{}",
+    "urlMain": "https://worldtruthvideos.org/",
+    "username_claimed": "Tors_Hammer",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "mstdn.social": {
+    "errorType": "status_code",
+    "url": "https://mstdn.social/@{}",
+    "urlMain": "https://mstdn.social/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Github Pages": {
+    "errorType": "status_code",
+    "url": "https://{}.github.io",
+    "urlMain": "https://pages.github.com/",
+    "username_claimed": "sherlock-project",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "social.snopyta.org": {
+    "errorType": "status_code",
+    "url": "https://social.snopyta.org/@{}",
+    "urlMain": "https://social.snopyta.org/",
+    "username_claimed": "snopyta",
     "username_unclaimed": "noonewouldeverusethis7"
   }
 }
