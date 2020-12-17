@@ -179,6 +179,13 @@
     "username_claimed": "support",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Wix": {
+    "errorType": "status_code",
+    "url": "https://{}.wixsite.com",
+    "urlMain": "https://wix.com/",
+    "username_claimed": "support",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Battlelog": {
     "errorMsg": "Sorry, that page doesn't exist",
     "errorType": "message",
