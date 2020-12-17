@@ -181,7 +181,7 @@
   },
   "Sleekpage": {
     "errorType": "response_url",
-	"errorUrl": "https://sleek.page/",
+    "errorUrl": "https://sleek.page/",
     "url": "https://{}.sleek.page",
     "urlMain": "https://sleek.page/",
     "username_claimed": "example.v1",
