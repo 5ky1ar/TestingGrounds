@@ -200,6 +200,13 @@
     "username_claimed": "pricing",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "PixelHub": {
+    "errorType": "status_code",
+    "url": "https://pixelhub.me/{}",
+    "urlMain": "https://pixelhub.me/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Battlelog": {
     "errorMsg": "Sorry, that page doesn't exist",
     "errorType": "message",
