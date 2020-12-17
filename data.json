@@ -102,6 +102,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "social.snopyta.org": {
+    "errorType": "status_code",
+    "url": "https://social.snopyta.org/@{}",
+    "urlMain": "https://social.snopyta.org/",
+    "username_claimed": "snopyta",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Github Pages": {
     "errorType": "status_code",
     "url": "https://{}.github.io",
@@ -109,11 +116,11 @@
     "username_claimed": "sherlock-project",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "social.snopyta.org": {
+  "Gitlab Pages": {
     "errorType": "status_code",
-    "url": "https://social.snopyta.org/@{}",
-    "urlMain": "https://social.snopyta.org/",
-    "username_claimed": "snopyta",
+    "url": "https://{}.gitlab.io",
+    "urlMain": "https://about.gitlab.com/stages-devops-lifecycle/pages/",
+    "username_claimed": "iotlink",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
