@@ -113,14 +113,21 @@
     "errorType": "status_code",
     "url": "https://{}.github.io",
     "urlMain": "https://pages.github.com/",
-    "username_claimed": "sherlock-project",
+    "username_claimed": "5ky1ar",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Gitlab Pages": {
     "errorType": "status_code",
     "url": "https://{}.gitlab.io",
     "urlMain": "https://about.gitlab.com/stages-devops-lifecycle/pages/",
-    "username_claimed": "iotlink",
+    "username_claimed": "5ky1ar",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Bitbucket Pages": {
+    "errorType": "status_code",
+    "url": "https://{}.bitbucket.io",
+    "urlMain": "https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/",
+    "username_claimed": "5ky1ar",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
