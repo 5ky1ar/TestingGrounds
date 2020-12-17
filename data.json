@@ -203,6 +203,7 @@
   "Swite": {
     "errorType": "response_url",
     "errorUrl": "https://swite.com/login",
+	"url": "https://swite.com/{}",
     "urlMain": "https://swite.com/",
     "username_claimed": "prices",
     "username_unclaimed": "noonewouldeverusethis7"
