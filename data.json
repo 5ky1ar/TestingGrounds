@@ -7,7 +7,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Banned.Video": {
-    "errorType": "status_code",
+    "errorMsg": "<title>404 Not Found</title>",
+    "errorType": "message",
     "url": "https://banned.video/user/{}",
     "urlMain": "https://banned.video/",
     "username_claimed": "Skylar",
