@@ -194,7 +194,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Deets": {
-    "errorType": "status_code",
+    "errorMsg": "Profile not found",
+    "errorType": "message",
     "url": "https://deets.co/{}",
     "urlMain": "https://deets.co/",
     "username_claimed": "privacy",
@@ -229,14 +230,16 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Tipsolink": {
-    "errorType": "status_code",
+    "errorMsg": "Sorry, this user does not exist",
+    "errorType": "message",
     "url": "https://tipso.link/{}",
     "urlMain": "https://tipso.link/",
     "username_claimed": "privacy",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "URLTree": {
-    "errorType": "status_code",
+    "errorMsg": "No Links",
+    "errorType": "message",
     "url": "https://urltr.ee/{}",
     "urlMain": "https://urltr.ee/",
     "username_claimed": "privacy.php",
@@ -257,35 +260,40 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio1": {
-    "errorType": "status_code",
+    "errorMsg": "404 Error",
+    "errorType": "message",
     "url": "http://{}.ctcin.bio",
     "urlMain": "https://ctcin.bio",
     "username_claimed": "warroom",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio2": {
-    "errorType": "status_code",
+    "errorMsg": "404 Error",
+    "errorType": "message",
     "url": "https://{}.contactin.bio",
     "urlMain": "https://contactin.bio",
     "username_claimed": "redcon1",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio3": {
-    "errorType": "status_code",
+    "errorMsg": "404 Error",
+    "errorType": "message",
     "url": "http://{}.contactinbio.com",
     "urlMain": "https://contactinbio.com",
     "username_claimed": "b2sims",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio4": {
-    "errorType": "status_code",
+    "errorType": "response_url",
+    "errorUrl": "https://www.contactinbio.com/",
     "url": "https://allmy.link/{}",
     "urlMain": "https://allmy.link/",
     "username_claimed": "sabertooth",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Into Bio": {
-    "errorType": "status_code",
+    "errorMsg": "No Page With This Username",
+    "errorType": "message",
     "url": "https://into.bio/{}",
     "urlMain": "https://into.bio/",
     "username_claimed": "terms",
@@ -306,7 +314,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Flowpage": {
-    "errorType": "status_code",
+    "errorMsg": "Nobody's reserved this Flowpage yet",
+    "errorType": "message",
     "url": "https://www.flow.page/{}",
     "urlMain": "https://www.flow.page/",
     "username_claimed": "gypsycrusader88",
@@ -334,8 +343,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "BioFM": {
-    "errorType": "response_url",
-    "errorUrl": "https://bio.fm/not-found",
+    "errorMsg": "The link you followed may be broken or the page may have been removed",
+    "errorType": "message",
     "url": "https://bio.fm/{}",
     "urlMain": "https://bio.fm",
     "username_claimed": "how-it-works",
