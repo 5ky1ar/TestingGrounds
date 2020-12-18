@@ -95,20 +95,6 @@
     "username_claimed": "Tors_Hammer",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "mstdn.social": {
-    "errorType": "status_code",
-    "url": "https://mstdn.social/@{}",
-    "urlMain": "https://mstdn.social/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "social.snopyta.org": {
-    "errorType": "status_code",
-    "url": "https://social.snopyta.org/@{}",
-    "urlMain": "https://social.snopyta.org/",
-    "username_claimed": "snopyta",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "Github Pages": {
     "errorType": "status_code",
     "url": "https://{}.github.io",
@@ -200,12 +186,175 @@
     "username_claimed": "pricing",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Swite": {
+  "lnks.to": {
+    "errorType": "status_code",
+    "url": "https://lnks.to/{}",
+    "urlMain": "https://lnks.to/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Deets": {
+    "errorType": "status_code",
+    "url": "https://deets.co/{}",
+    "urlMain": "https://deets.co/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "LinkTube": {
+    "errorType": "status_code",
+    "url": "https://linktube.com/{}",
+    "urlMain": "https://linktube.com/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Linkrin": {
+    "errorType": "status_code",
+    "url": "https://linkr.in/{}",
+    "urlMain": "https://linkr.in/",
+    "username_claimed": "trapnation",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "SocialLinks": {
+    "errorType": "status_code",
+    "url": "https://socialinks.org/{}",
+    "urlMain": "https://socialinks.org/",
+    "username_claimed": "page-demo",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Solo": {
+    "errorType": "status_code",
+    "url": "https://solo.to/{}",
+    "urlMain": "https://solo.to/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tipsolink": {
+    "errorType": "status_code",
+    "url": "https://tipso.link/{}",
+    "urlMain": "https://tipso.link/",
+    "username_claimed": "privacy",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "URLTree": {
+    "errorType": "status_code",
+    "url": "https://urltr.ee/{}",
+    "urlMain": "https://urltr.ee/",
+    "username_claimed": "privacy.php",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Diplink": {
+    "errorType": "status_code",
+    "url": "https://dip.link/{}",
+    "urlMain": "https://dip.link/",
+    "username_claimed": "en",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "One Profile": {
+    "errorType": "status_code",
+    "url": "https://{}.oneprofile.page",
+    "urlMain": "https://oneprofile.page",
+    "username_claimed": "docs",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio1": {
+    "errorType": "status_code",
+    "url": "http://{}.ctcin.bio",
+    "urlMain": "https://ctcin.bio",
+    "username_claimed": "warroom",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio2": {
+    "errorType": "status_code",
+    "url": "https://{}.contactin.bio",
+    "urlMain": "https://contactin.bio",
+    "username_claimed": "redcon1",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio3": {
+    "errorType": "status_code",
+    "url": "http://{}.contactinbio.com",
+    "urlMain": "https://contactinbio.com",
+    "username_claimed": "b2sims",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ContactInBio4": {
+    "errorType": "status_code",
+    "url": "https://allmy.link/{}",
+    "urlMain": "https://allmy.link/",
+    "username_claimed": "sabertooth",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Into Bio": {
+    "errorType": "status_code",
+    "url": "https://into.bio/{}",
+    "urlMain": "https://into.bio/",
+    "username_claimed": "terms",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Epic Bio": {
+    "errorType": "status_code",
+    "url": "https://epicb.io/{}",
+    "urlMain": "https://epicb.io/",
+    "username_claimed": "login",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Jotlink": {
+    "errorType": "status_code",
+    "url": "https://jot.link/{}",
+    "urlMain": "https://jot.link/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Flowpage": {
+    "errorType": "status_code",
+    "url": "https://www.flow.page/{}",
+    "urlMain": "https://www.flow.page/",
+    "username_claimed": "gypsycrusader88",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Tugify": {
+    "errorType": "status_code",
+    "url": "https://tugify.com/{}",
+    "urlMain": "https://tugify.com/",
+    "username_claimed": "demo",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Codeberg": {
+    "errorType": "status_code",
+    "url": "https://codeberg.org/{}",
+    "urlMain": "https://codeberg.org/",
+    "username_claimed": "codeberg",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Shutterlink": {
+    "errorType": "status_code",
+    "url": "https://shutter.link/{}",
+    "urlMain": "https://shutter.link/",
+    "username_claimed": "hello",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "BioFM": {
     "errorType": "response_url",
-    "errorUrl": "https://swite.com/login",
-    "url": "https://swite.com/{}",
-    "urlMain": "https://swite.com/",
-    "username_claimed": "prices",
+    "errorUrl": "https://bio.fm/not-found",
+    "url": "https://bio.fm/{}",
+    "urlMain": "https://bio.fm",
+    "username_claimed": "how-it-works",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Liink": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.liinks.co/i/not-found?type=NO_USER&slug={}",
+    "url": "https://www.liinks.co/{}",
+    "urlMain": "https://www.liinks.co/",
+    "username_claimed": "ericvialle",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "LeClick": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.leclick.io/",
+    "url": "https://{}.leclick.io",
+    "urlMain": "https://leclick.io/",
+    "username_claimed": "ericvialle",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "PixelHub": {
@@ -214,6 +363,38 @@
     "url": "https://pixelhub.me/{}",
     "urlMain": "https://pixelhub.me/",
     "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Sharely": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.sharely.in/404/",
+    "url": "https://sharely.in/{}",
+    "urlMain": "https://sharely.in/",
+    "username_claimed": "pricing",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Lnk.Bio": {
+    "errorType": "response_url",
+    "errorUrl": "https://lnk.bio/404/",
+    "url": "https://lnk.bio/{}",
+    "urlMain": "https://lnk.bio/",
+    "username_claimed": "agency",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "ManyLink": {
+    "errorMsg": "Couldn't find a profile named",
+    "errorType": "message",
+    "url": "https://many.link/{}",
+    "urlMain": "https://many.link/",
+    "username_claimed": "jespr",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Codeberg Pages": {
+    "errorMsg": "this user/organization does not have codeberg pages",
+    "errorType": "message",
+    "url": "https://{}.codeberg.page",
+    "urlMain": "https://codeberg.page/",
+    "username_claimed": "infosechandbook",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Battlelog": {
