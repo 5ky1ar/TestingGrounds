@@ -284,8 +284,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio4": {
-    "errorType": "response_url",
-    "errorUrl": "https://www.contactinbio.com/",
+    "errorMsg": "<title>404</title>",
+    "errorType": "message",
     "url": "https://allmy.link/{}",
     "urlMain": "https://allmy.link/",
     "username_claimed": "sabertooth",
