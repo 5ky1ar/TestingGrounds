@@ -6,14 +6,6 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Banned.Video": {
-    "errorMsg": "<title>404 Not Found</title>",
-    "errorType": "message",
-    "url": "https://banned.video/user/{}",
-    "urlMain": "https://banned.video/",
-    "username_claimed": "Skylar",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "Bitwave": {
     "errorMsg": "Could not find channel",
     "errorType": "message",
@@ -267,7 +259,7 @@
     "username_claimed": "docs",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "ContactInBio": {
+  "ContactInBio1": {
     "errorMsg": "404 Error",
     "errorType": "message",
     "url": "http://{}.ctcin.bio",
@@ -275,7 +267,7 @@
     "username_claimed": "warroom",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "ContactInBio": {
+  "ContactInBio2": {
     "errorMsg": "404 Error",
     "errorType": "message",
     "url": "https://{}.contactin.bio",
@@ -283,7 +275,7 @@
     "username_claimed": "redcon1",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "ContactInBio": {
+  "ContactInBio3": {
     "errorMsg": "404 Error",
     "errorType": "message",
     "url": "http://{}.contactinbio.com",
