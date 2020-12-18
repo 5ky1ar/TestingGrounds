@@ -284,7 +284,7 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ContactInBio4": {
-    "errorMsg": "<title>404</title>",
+    "errorMsg": "<title>404 - Page not found</title>",
     "errorType": "message",
     "url": "https://allmy.link/{}",
     "urlMain": "https://allmy.link/",
@@ -314,7 +314,7 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Flowpage": {
-    "errorMsg": "Nobody's reserved this Flowpage yet",
+    "errorMsg": "<title>Flowpage | Not Found</title>",
     "errorType": "message",
     "url": "https://www.flow.page/{}",
     "urlMain": "https://www.flow.page/",
@@ -343,8 +343,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "BioFM": {
-    "errorMsg": "The link you followed may be broken or the page may have been removed",
-    "errorType": "message",
+    "errorType": "response_url",
+    "errorUrl": "https://bio.fm/not-found",
     "url": "https://bio.fm/{}",
     "urlMain": "https://bio.fm",
     "username_claimed": "how-it-works",
