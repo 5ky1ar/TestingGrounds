@@ -327,6 +327,20 @@
     "username_claimed": "codeberg",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "CashApp": {
+    "errorType": "status_code",
+    "url": "https://cash.app/${}",
+    "urlMain": "https://cash.app/",
+    "username_claimed": "SkylarDudash",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "PayPal": {
+    "errorType": "status_code",
+    "url": "https://www.paypal.com/paypalme/{}",
+    "urlMain": "https://paypal.com/",
+    "username_claimed": "SkylarDudash",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Shutterlink": {
     "errorType": "status_code",
     "url": "https://shutter.link/{}",
