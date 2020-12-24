@@ -72,14 +72,6 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Voat": {
-    "errorMsg": "Whoops",
-    "errorType": "message",
-    "url": "https://voat.co/u/{}",
-    "urlMain": "https://voat.co/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "WorldTruthMX": {
     "errorType": "status_code",
     "url": "https://www.worldtruth.online/{}",
@@ -410,6 +402,20 @@
     "url": "https://coub.com/{}",
     "urlMain": "https://coub.com/",
     "username_claimed": "tos",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Saidit": {
+    "errorType": "status_code",
+    "url": "https://saidit.net/user/{}",
+    "urlMain": "https://saidit.net/",
+    "username_claimed": "Admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Ruqqus": {
+    "errorType": "status_code",
+    "url": "https://ruqqus.com/@{}",
+    "urlMain": "https://ruqqus.com/",
+    "username_claimed": "Admin",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
