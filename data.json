@@ -422,7 +422,8 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "PocketNet": {
-    "errorType": "status_code",
+    "errorMsg": "ERROR 404",
+    "errorType": "message",
     "url": "https://pocketnet.app/{}",
     "urlMain": "https://pocketnet.app/",
     "username_claimed": "donations",
