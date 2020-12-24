@@ -405,28 +405,11 @@
     "username_claimed": "infosechandbook",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Battlelog": {
-    "errorMsg": "Sorry, that page doesn't exist",
-    "errorType": "message",
-    "url": "https://battlelog.battlefield.com/bf4/user/{}",
-    "urlMain": "https://battlelog.battlefield.com/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "Lipsi": {
-    "errorMsg": "User not found",
-    "errorType": "message",
-    "url": "https://www.lipsiapp.com/{}",
-    "urlMain": "https://lipsi.ca/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
-  "PocketNet": {
-    "errorMsg": "ERROR 404",
-    "errorType": "message",
-    "url": "https://pocketnet.app/{}",
-    "urlMain": "https://pocketnet.app/",
-    "username_claimed": "donations",
+  "Coub": {
+    "errorType": "status_code",
+    "url": "https://coub.com/{}",
+    "urlMain": "https://coub.com/",
+    "username_claimed": "tos",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
