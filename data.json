@@ -413,6 +413,14 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "Lipsi": {
+    "errorMsg": "User not found",
+    "errorType": "message",
+    "url": "https://www.lipsiapp.com/{}",
+    "urlMain": "https://lipsi.ca/",
+    "username_claimed": "blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "iLink (Broken)": {
     "errorType": "status_code",
     "url": "https://il.ink/{}",
