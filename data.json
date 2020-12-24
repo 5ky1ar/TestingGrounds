@@ -426,11 +426,11 @@
     "username_claimed": "Admin",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "LBRY": {
+  "Spreaker": {
     "errorType": "status_code",
-    "url": "https://lbry.tv/@{}",
-    "urlMain": "https://lbry.tv/",
-    "username_claimed": "LBRYnomics",
+    "url": "https://www.spreaker.com/user/{}",
+    "urlMain": "https://spreaker.com/",
+    "username_claimed": "antisocialmedia",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
