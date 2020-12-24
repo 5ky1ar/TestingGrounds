@@ -397,6 +397,14 @@
     "username_claimed": "infosechandbook",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "DLive": {
+    "errorMsg": "Channel not found",
+    "errorType": "message",
+    "url": "https://dlive.tv/{}",
+    "urlMain": "https://dlive.tv/",
+    "username_claimed": "PewDiePie",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Coub": {
     "errorType": "status_code",
     "url": "https://coub.com/{}",
@@ -416,6 +424,13 @@
     "url": "https://ruqqus.com/@{}",
     "urlMain": "https://ruqqus.com/",
     "username_claimed": "Admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "LBRY": {
+    "errorType": "status_code",
+    "url": "https://lbry.tv/@{}",
+    "urlMain": "https://lbry.tv/",
+    "username_claimed": "LBRYnomics",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "iLink (Broken)": {
