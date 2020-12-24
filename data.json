@@ -144,13 +144,6 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "About Me": {
-    "errorType": "status_code",
-    "url": "https://about.me/{}",
-    "urlMain": "https://about.me/",
-    "username_claimed": "blue",
-    "username_unclaimed": "noonewouldeverusethis7"
-  },
   "Surge": {
     "errorType": "status_code",
     "url": "https://{}.surge.sh",
@@ -386,6 +379,14 @@
     "url": "https://lnk.bio/{}",
     "urlMain": "https://lnk.bio/",
     "username_claimed": "agency",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
+  "Unsilenced Voice": {
+    "errorType": "response_url",
+    "errorUrl": "https://www.unsilencedvoice.com/",
+    "url": "https://www.unsilencedvoice.com/p/{}",
+    "urlMain": "https://www.unsilencedvoice.com/",
+    "username_claimed": "Anon",
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "ManyLink": {
